@@ -1,3 +1,8 @@
+Quick note to the Indian team:
+
+- This repo is a clone of https://github.com/ExplodingCabbage/xero, where I threw in a quick fix for https://github.com/Daursu/xero/issues/3 which pipindex/base-api needs to work properly. I created this clone under pipindex/ because I might delete https://github.com/ExplodingCabbage/xero at some point and I don't want to break your codebase by doing so.
+- Soon, https://github.com/Daursu/xero/issues/3 will hopefully be resolved, at which point you should change the references to this repository back to point at Daursu/xero and delete this repository.
+
 # Xero API wrapper for Laravel 4
 
 [![Latest Stable Version](https://poser.pugx.org/daursu/xero/v/stable.svg)](https://packagist.org/packages/daursu/xero) [![Total Downloads](https://poser.pugx.org/daursu/xero/downloads.svg)](https://packagist.org/packages/daursu/xero) [![Latest Unstable Version](https://poser.pugx.org/daursu/xero/v/unstable.svg)](https://packagist.org/packages/daursu/xero) [![License](https://poser.pugx.org/daursu/xero/license.svg)](https://packagist.org/packages/daursu/xero)
